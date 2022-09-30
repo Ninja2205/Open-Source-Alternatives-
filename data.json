@@ -142,6 +142,22 @@
         "alternative":"Brave",
         "description":"Ad free",
         "link":"https://brave.com"
+    },
+     {
+        "id": 19,
+        "applicationName": "Vmware",
+        "use": "It enables users to create and run VMs directly on a single Windows or Linux desktop or laptop",
+        "alternative":"Virtual box",
+        "description":"It allows users to extend their existing computer to run multiple operating systems including Microsoft Windows, Mac OS X, Linux, and Oracle Solaris, at the same time.",
+        "link":"https://www.virtualbox.org/wiki/Downloads"
+    },
+    {
+        "id": 20,
+        "applicationName": "Autocad",
+        "use": "used to create precise 2D and 3D drawings and models, as well as electrical diagrams, construction drawings, and more.",
+        "alternative":"Openscad",
+        "description":"software for creating solid 3D CAD models. It is free software and available for Linux/UNIX, Windows and Mac OS X.",
+        "link":"https://openscad.org/downloads.html"
     }
 
 
